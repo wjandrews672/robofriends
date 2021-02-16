@@ -1,0 +1,3 @@
+[submodule "robofriend"]
+	path = robofriend
+	url = git@github.com:wjandrews672/robofriends.git
